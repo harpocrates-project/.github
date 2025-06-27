@@ -12,3 +12,4 @@ HARPOCRATES is funded under the Horizon Europe Programme, grant number [10106953
 ## About this repository
 
 This repository contains a collection of software projects developed fully or in part with the support of the HARPOCRATES project.
+The included software projects are either mirrors of the original repositories or hosted and maintained here.
