@@ -1,4 +1,4 @@
-# HAROCRATES project software repository .
+# HAROCRATES project software repository
 
 ## About HARPOCRATES EU project
 
